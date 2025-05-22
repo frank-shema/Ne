@@ -168,3 +168,6 @@ For issues, questions, or feature requests, please contact the developer or subm
 frank@frank-ThinkBook-14-G2-ITL:~/Desktop/Ne/Bus_park_system$ g++ -std=c++17 BusPark.cpp main.cpp -o bus_park_system
 frank@frank-ThinkBook-14-G2-ITL:~/Desktop/Ne/Bus_park_system$ ./bus_park_system
 Welcome to the Bus Park Network Management System!
+
+sudo apt update
+sudo apt install graphviz
