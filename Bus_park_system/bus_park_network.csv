@@ -1,0 +1,4 @@
+type,id,name,location,capacity,has_toilets,source_id,destination_id,distance
+park,BP02,NYAMATA,NYAMATA-GARE,80,true,,,
+park,BP01,Nyamirambo,Nyamirambo gare ,100,true,,,
+connection,,,,,,BP01,BP02,10
