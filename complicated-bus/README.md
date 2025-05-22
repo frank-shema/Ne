@@ -190,3 +190,8 @@ Replace CSV files with SQLite for real-time data management.
 Current Date and Time
 
 Today's date and time is 09:51 PM CAT on Thursday, May 22, 2025.
+
+Compile and Run:
+Save the files in a directory.
+Compile: g++ -std=c++17 BusParkSystem.cpp main.cpp -o bus_park_system.
+Run: ./bus_park_system
