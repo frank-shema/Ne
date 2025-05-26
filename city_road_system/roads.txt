@@ -1,0 +1,3 @@
+Road,Budget
+kigali-muhanga,28.6
+kigali-musanze01,28.6

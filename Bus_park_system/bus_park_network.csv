@@ -1,7 +1,0 @@
-type,id,name,location,capacity,has_toilets,source_id,destination_id,distance
-park,BP03,ruyenzi,kamonyi,45,true,,,
-park,BP01,Nyamirambo,Nyamirambo gare ,100,true,,,
-park,BP02,NYAMATA,NYAMATA-GARE,80,true,,,
-connection,,,,,,BP01,BP02,10
-connection,,,,,,BP01,BP03,11
-connection,,,,,,BP02,BP03,9

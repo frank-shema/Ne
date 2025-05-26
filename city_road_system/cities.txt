@@ -1,0 +1,8 @@
+Index,CityName
+0,kigali
+1,huye
+2,muhanga
+3,musanze01
+4,nyagatare
+5,rubavu
+6,rusizi
